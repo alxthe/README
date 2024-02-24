@@ -1,4 +1,4 @@
-###Hi I'm Alex 👋🏾
+### Hi I'm Alex 👋🏾
 
 - 👀 I’m interested in learning to code (Java, C++, CSS, HTML, Javascript, Python, etc.). I'm an aspiring Product Manager and am hoping to learn a lot from GitHub
 - 🌱 I’m currently learning a couple coding languages
