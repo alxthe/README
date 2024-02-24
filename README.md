@@ -2,7 +2,7 @@
 
 You can find me on my [website](https://alxmat.framer.ai/), [LinkedIn](https://www.linkedin.com/in/alxmat/), and [Twitter](https://twitter.com/alxmthew)
 
-# About me
+### About me
 - 👀 I’m super interested in AI/ML, BCI, and startups!
 - 📸 Ideal hangout: walking around a park with water, eating food, talking, and taking pics on my Canon camera
 - 🌱 Programming's like a "it's complicated" relationship status: I love it, hate it, but can't live without it 
